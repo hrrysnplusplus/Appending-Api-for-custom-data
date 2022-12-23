@@ -1,5 +1,6 @@
 # CustomApiEndpoint - Coin Lore Api
-## Setup - Run the console app
+## Setup 
+- Run the console app
 
 Logic to create a custom api endpoint to retreive data for different cryptocurrencies
 
